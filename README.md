@@ -1,0 +1,1 @@
+this is a javascript function that if parameter be farsi word returned true else returned false
